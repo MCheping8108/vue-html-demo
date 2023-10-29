@@ -12,6 +12,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/test">test</RouterLink>
         <RouterLink to="/inputer">inputer</RouterLink>
         <RouterLink to="/onclick">onclick</RouterLink>
+        <RouterLink to="/time">time</RouterLink>
       </nav>
     </div>
   </header>

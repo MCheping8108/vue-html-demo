@@ -7,7 +7,8 @@ const router = createRouter({
     {path: '/', name: 'home', component: HomeView},
     {path: '/test', name: 'test', component: () => import('../views/test.vue')},
     {path: '/inputer', name: 'inputer', component: () => import('../views/inputer.vue')},
-    {path: '/onclick', name: 'onclick', component: () => import('../views/onclick.vue')}
+    {path: '/onclick', name: 'onclick', component: () => import('../views/onclick.vue')},
+    {path: '/time', name: 'time', component: () => import('../views/time.vue')},
   ]
 })
 
