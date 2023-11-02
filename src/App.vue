@@ -33,6 +33,7 @@ export default {
         <RouterLink to="/inputer">inputer</RouterLink>
         <RouterLink to="/onclick">onclick</RouterLink>
         <RouterLink to="/button">button</RouterLink>
+        <RouterLink to="/bulr-login">bulr-login</RouterLink>
       </nav>
       <!-- <button @click="toggleMenu">Toggle Menu</button> -->
     </div>

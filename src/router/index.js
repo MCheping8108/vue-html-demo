@@ -9,6 +9,7 @@ const router = createRouter({
     {path: '/inputer', name: 'inputer', component: () => import('../views/inputer.vue')},
     {path: '/onclick', name: 'onclick', component: () => import('../views/onclick.vue')},
     {path: '/button', name: 'element', component: () => import('../views/button.vue')},
+    {path: '/bulr-login', name: 'bulr-login', component: () => import('../views/Bulr-Login.vue')},
   ]
 })
 
