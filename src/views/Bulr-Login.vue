@@ -1,8 +1,13 @@
 <template>
 <br>
 <a href="https://mcheping8108.github.io/Bulr-Login/">完整的网页</a><br>
+<p>原神！启动！</p>
 <iframe src="https://mcheping8108.github.io/Bulr-Login/" frameborder="0" ></iframe>
 </template>
+
+<script>
+// 原神！启动！
+</script>
 
 <style>
 iframe{
