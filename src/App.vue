@@ -34,6 +34,7 @@ export default {
         <RouterLink to="/onclick">onclick</RouterLink>
         <RouterLink to="/button">button</RouterLink>
         <RouterLink to="/bulr-login">bulr-login</RouterLink>
+        <RouterLink to="/iframe">iframe</RouterLink>
       </nav>
       <!-- <button @click="toggleMenu">Toggle Menu</button> -->
     </div>
