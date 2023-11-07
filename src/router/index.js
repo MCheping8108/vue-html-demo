@@ -11,6 +11,7 @@ const router = createRouter({
     {path: '/button', name: 'element', component: () => import('../views/button.vue')},
     {path: '/bulr-login', name: 'bulr-login', component: () => import('../views/Bulr-Login.vue')},
     {path: '/iframe', name: 'iframe', component: () => import('../views/iframe.vue')},
+    {path: '/border-radius', name: 'border-radius', component: () => import('../views/border-radius.vue')},
   ]
 })
 
