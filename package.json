@@ -2,6 +2,9 @@
   "name": "vue-html-demo",
   "version": "1.0.0",
   "private": true,
+  "license": "none",
+  "author": "和平peaceful",
+  "homepage": "https://demo.peacefuly.top",
   "scripts": {
     "dev": "vite --port=5000",
     "build": "vite build",
