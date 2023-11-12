@@ -29,7 +29,6 @@ export default {
     <div class="wrapper">
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/test">test</RouterLink>
         <!-- <RouterLink to="/inputer">inputer</RouterLink> -->
         <RouterLink to="/onclick">onclick</RouterLink>
         <RouterLink to="/button">button</RouterLink>
